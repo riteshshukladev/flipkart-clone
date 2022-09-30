@@ -26,4 +26,24 @@ font-family: 'Roboto', sans-serif;
 {
     margin:12px 0px;
     
+    
+}
+.card-text
+{
+    text-align: center;
+}
+.D1
+{
+    margin: 7px 0px;
+}
+.D1:hover
+{
+    color: blue;
+    cursor: pointer;
+    font-weight: 700;
+}
+.image_size
+{
+    height: 11.4rem;
+    width: 11.438rem;
 }

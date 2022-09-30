@@ -3,6 +3,7 @@
   }
   
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
 *
 {
@@ -74,4 +75,25 @@ border-radius:4px;
     display: flex;
 align-items: center;
 }
+.card h2
+{
+    background-color:darkgray;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
 
+}
+.card
+{
+     background-color: bisque;
+max-width: 98vw;
+margin: auto;
+}
+.card_items
+{
+    width:12vw;
+    display: inline-flex;
+    justify-content: center;
+    flex-direction:column;
+    text-align: center;
+
+}
