@@ -84,9 +84,10 @@ align-items: center;
 }
 .card
 {
-     background-color: bisque;
+     background-color:aliceblue;
 max-width: 98vw;
-margin: auto;
+margin: 25px auto;
+overflow: hidden;
 }
 .card_items
 {
