@@ -1,0 +1,52 @@
+@media screen and (max-width:1128px)
+{
+   
+    nav
+    {
+        flex-direction: column;
+        
+    }
+    .logo
+    {
+        justify-content: center;
+         margin: 12px 0px;
+    }
+    .logo img
+    {
+        padding: 7px;
+    }
+    nav ul 
+    {
+        justify-content: center;
+        height: 2rem;
+    }
+    .search
+    {
+        justify-content: center;
+    }
+    .search input
+    {
+        margin: 0px 16px;
+    }
+    .slider_img
+    {
+        height: 60vh;
+    }
+    .card 
+    {    
+       
+        display: flex;
+        flex-direction:column;
+        flex-wrap: nowrap;
+        justify-content: center;
+        
+    }
+    .card img{
+        
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        
+        margin: 3px 5px;
+    }
+}

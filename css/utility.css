@@ -23,9 +23,9 @@ font-family: 'Roboto', sans-serif;
     font-weight: bold; 
 }
 .slider 
-{
+{    
     margin:12px 0px;
-    
+    overflow: hidden;
     
 }
 .card-text
@@ -47,9 +47,4 @@ font-family: 'Roboto', sans-serif;
     height: 11.4rem;
     width: 11.438rem;
     cursor: pointer;
-}
-.card_items img:hover
-{
-    border: 2px solid black;
-    
 }
